@@ -373,6 +373,9 @@ input::-webkit-input-placeholder {
     margin-bottom: 40px;
     position: relative;
 }
+.youtube_frame {
+    border-style: none;
+}
 .youtube::after {
     content: ' ';
     display: block;
