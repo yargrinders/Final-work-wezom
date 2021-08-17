@@ -155,6 +155,7 @@ body {
 
 /* HEADER */
 .block-slider {
+    background-color: red;	
     background: url('../img/art_museum_render_1_by_rednotdead-d46qdi9-copy.png') center no-repeat;
     background-position: bottom 0px center;
     height: 720px;
