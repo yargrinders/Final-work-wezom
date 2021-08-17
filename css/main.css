@@ -1,10 +1,6 @@
 *,*::before,*::after {
     box-sizing: border-box;
 }
-html {
-    overflow-x: hidden;
-    overflow-y: scroll;
-}
 /* FONTS */
 @font-face {
     font-family: "Arial";
